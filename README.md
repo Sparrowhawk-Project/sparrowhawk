@@ -16,16 +16,19 @@ Coming soon.
 
 # Bugs and Feature Requests
 
-Coming soon.
+Have a bug or a feature request? [Please open a new issue](https://github.com/Sparrowhawk-Project/sparrowhawk/issues/new/choose).
 
 # Documentation
 
-Coming soon.
+All documention is hosted on, and powered by [GitBook](sparrowhawk.gitbook.com).
 
 # Community
 
-Coming Soon
+Get updates on Sparrowhawk's development and chat with the project maintainers and community members.
+
+- Follow [@sparrowhawkframework on Mastodon](https://mastodon.social/@sparrowhawkframework).
+- Check out the projects [GitHub Discussions](https://github.com/Sparrowhawk-Project/sparrowhawk/discussions).
 
 # Copyright and License
 
-Code and documentation copyright 2017–2023 [Ron Becker](https://github.com/ronbecker/sparrowhawk/graphs/contributors). Code released under the [MIT License](https://github.com/ronbecker/sparrowhawk/blob/master/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Code and documentation copyright 2017–2023 [Ron Becker](https://github.com/Sparrowhawk-Project/sparrowhawk/graphs/contributors). Code released under the [MIT License](https://github.com/Sparrowhawk-Project/sparrowhawk/blob/master/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
