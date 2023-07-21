@@ -21,7 +21,7 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/Sp
 
 # Documentation
 
-All documention is hosted on, and powered by [GitBook](https://sparrowhawk.gitbook.com).
+All documention is hosted on, and powered by [GitBook](https://sparrowhawk.gitbook.io).
 
 # Community
 
