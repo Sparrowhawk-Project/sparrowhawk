@@ -27,7 +27,7 @@ All documention is hosted on, and powered by [GitBook](https://sparrowhawk.gitbo
 
 Get updates on Sparrowhawk's development and chat with the project maintainers and community members.
 
-- Follow [@sparrowhawkframework on Mastodon](https://mastodon.social/@sparrowhawkproject).
+- Follow [@sparrowhawkproject on Mastodon](https://mastodon.social/@sparrowhawkproject).
 - Check out the projects [GitHub Discussions](https://github.com/SparrowhawkProject/sparrowhawk/discussions).
 
 # Contributing (WIP)
