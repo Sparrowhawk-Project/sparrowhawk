@@ -1,3 +1,31 @@
-# Sparrowhawk
+## Sparrowhawk
 
-Sparrowhawk is a small, light template I am working on. Extremely slowly. It is really for myself, but if I ever make any progress anyone is welcome to use it. If I really get into it, and want to lock it down, Sparrowhawk will stay free and open, and I will start a new project.
+Sparrowhawk is an open-source framework for creating responsive websites quickly, and easily.
+
+## Table of contents
+
+- [Quick start](#quick-start)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Documentation](#documentation)
+- [Community](#community)
+- [Copyright and license](#copyright-and-license)
+
+# Quick start
+
+Coming soon.
+
+# Bugs and Feature Requests
+
+Coming soon.
+
+# Documentation
+
+Coming soon.
+
+# Community
+
+Coming Soon
+
+# Copyright and License
+
+Code and documentation copyright 2017–2023 [Ron Becker](https://github.com/ronbecker/sparrowhawk/graphs/contributors). Code released under the [MIT License](https://github.com/ronbecker/sparrowhawk/blob/master/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
